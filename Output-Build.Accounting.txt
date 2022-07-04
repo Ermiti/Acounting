@@ -1,0 +1,12 @@
+﻿Rebuild started...
+1>------ Rebuild All started: Project: Accounting.DataLayer, Configuration: Debug Any CPU ------
+2>------ Rebuild All started: Project: Accounting.Utility, Configuration: Debug Any CPU ------
+3>------ Rebuild All started: Project: Accounting.ViewModels, Configuration: Debug Any CPU ------
+4>------ Rebuild All started: Project: Accounting.business, Configuration: Debug Any CPU ------
+4>  Accounting.business -> C:\Users\elvin\source\repos\Acounting\Accounting.business\bin\Debug\Accounting.business.dll
+2>  Accounting.Utility -> C:\Users\elvin\source\repos\Acounting\Accounting.Utility\bin\Debug\Accounting.Utility.dll
+3>  Accounting.ViewModels -> C:\Users\elvin\source\repos\Acounting\Accounting.ViewModels\bin\Debug\Accounting.ViewModels.dll
+1>  Accounting.DataLayer -> C:\Users\elvin\source\repos\Acounting\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.dll
+5>------ Rebuild All started: Project: Acounting.App, Configuration: Debug Any CPU ------
+5>  Acounting.App -> C:\Users\elvin\source\repos\Acounting\Acounting.App\bin\Debug\Acounting.App.exe
+========== Rebuild All: 5 succeeded, 0 failed, 0 skipped ==========
